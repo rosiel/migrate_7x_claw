@@ -124,7 +124,7 @@ process:
         OBJ: http://pcdm.org/use#OriginalFile
         PDFA: http://pcdm.org/use#PreservationMasterFile
         OCR: http://pcdm.org/use#ExtractedText
-        HOCR: http://pcdm.org/use#ExtractedText
+        HOCR: http://kba.github.io/hocr-spec/1.2/
         FULL_TEXT: http://pcdm.org/use#ExtractedText
         TN: http://pcdm.org/use#ThumbnailImage
         JPG: http://pcdm.org/use#ServiceFile
@@ -139,6 +139,14 @@ process:
         TECHMD: http://hul.harvard.edu/ois/xml/ns/fits/fits_output
         PROXY_MP3: http://pcdm.org/use#ServiceFile
         COLLECTION_POLICY: http://islandora.ca/collection-policy
+        POLICY: http://www.oasis-open.org/committees/xacml/repository/
+        MARCXML: http://www.loc.gov/MARC21/slim
+        PDF: http://pcdm.org/use#ServiceFile
+        ABBYY: http://www.abbyy.com/FineReader_xml/FineReader8-schema-v2.xml
+        TEI: http://library.upei.ca/ontology/use#TEI
+        KML: http://library.upei.ca/ontology/use#KML
+        Permission: http://library.upei.ca/ontology/use#Permission
+        RELS-INT: http://islandora.ca/ontology/relsint
       default_value: Datastream
     -
       plugin: entity_lookup
