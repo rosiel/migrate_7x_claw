@@ -72,7 +72,7 @@ source:
     -
       name: member_of
       label: 'Member Of'
-      selector: 'RELS_EXT_isMemberOfCollection_uri_ms'
+      selector: 'RELS_EXT_isMemberOf_uri_ms'
     -
       name: person_agents 
       label: "Person agents"
