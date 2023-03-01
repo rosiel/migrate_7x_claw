@@ -9,7 +9,7 @@ islandora_media_use,RELS-INT File,A RELS-INT file from an Islandora 7.x instance
 islandora_media_use,TEI File,A Text Encoding Initiative markup file,http://www.tei-c.org/ns/1.0
 islandora_media_use,POLICY File,A XACML policy file,http://www.oasis-open.org/committees/xacml/repository/
 islandora_media_use,hOCR File,Extracted text with position data,http://kba.github.io/hocr-spec/1.2/
-islandora_media_usee,ABBYY File,Extracted text marked up by the ABBYY software,http://www.abbyy.com/FineReader_xml/FineReader8-schema-v2.xml
+islandora_media_use,ABBYY File,Extracted text marked up by the ABBYY software,http://www.abbyy.com/FineReader_xml/FineReader8-schema-v2.xml
 islandora_media_use,"MARCXML File",A MARCXML metadata file,http://www.loc.gov/MARC21/slim
 islandora_media_use,"TEI File",A file containing TEI markup,http://library.upei.ca/ontology/use#TEI
 islandora_media_use,"KML File",A file containing KML location data,http://library.upei.ca/ontology/use#KML
